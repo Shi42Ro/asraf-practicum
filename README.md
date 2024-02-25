@@ -4,4 +4,4 @@ A variety of Data Science projects completed during my participation in the Prac
 | --------------- | --------------- | --------------- |
 | [Music Preference Analysis](https://github.com/Shi42Ro/music_preference.git)    | Analyzed music preferences and user behavior in Springfield and Shelbyville using actual Y.Musicdata.    | *pandas*    |
 | [Credit Score Analysis](https://github.com/Shi42Ro/credit_score.git)    | Employing various metrics to assess the probability of a customer defaulting on a loan.    | *pandas,ntlk*    |
-| [Vehicle Price Analysis](https://github.com/Shi42Ro/vehicle_price.git)    | Analyzing advertisements for vehicles to identify the factors that impact vehicle pricing.    | *pandas,matplotlib,numpy,seaborn,missingno*    |
+| [Vehicle Price Analysis](https://github.com/Shi42Ro/vehicle_price.git)    | Analyzing advertisements for vehicles to identify the factors that impact vehicle pricing.    | *pandas,matplotlib,numpy, seaborn,missingno*    |
